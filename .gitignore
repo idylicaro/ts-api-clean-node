@@ -3,7 +3,7 @@ node_modules/
 jspm_packages/
 
 # jest coverage
-coverage
+coverage/
 
 # TypeScript v1 declaration files
 typings/
