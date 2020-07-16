@@ -1,2 +1,2 @@
 # ts-api-clean-node
-API created to learn:
+following course by: Rodrigo Manguinho
